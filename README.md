@@ -1,3 +1,2 @@
 # hello-world
-its my first project henna rose 
-jereena k frnacis
+ITS OUR FIRST PROJECT IN GIT
